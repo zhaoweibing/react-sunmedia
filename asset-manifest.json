@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-sunmedia/static/css/main.c9feb24a.chunk.css",
-    "main.js": "/react-sunmedia/static/js/main.3a62aeac.chunk.js",
-    "main.js.map": "/react-sunmedia/static/js/main.3a62aeac.chunk.js.map",
+    "main.js": "/react-sunmedia/static/js/main.95583593.chunk.js",
+    "main.js.map": "/react-sunmedia/static/js/main.95583593.chunk.js.map",
     "runtime-main.js": "/react-sunmedia/static/js/runtime-main.bdcbaefe.js",
     "runtime-main.js.map": "/react-sunmedia/static/js/runtime-main.bdcbaefe.js.map",
     "static/js/2.e6aaef76.chunk.js": "/react-sunmedia/static/js/2.e6aaef76.chunk.js",
     "static/js/2.e6aaef76.chunk.js.map": "/react-sunmedia/static/js/2.e6aaef76.chunk.js.map",
     "index.html": "/react-sunmedia/index.html",
-    "precache-manifest.f6501eccfd2ecea8cceccbef95eea880.js": "/react-sunmedia/precache-manifest.f6501eccfd2ecea8cceccbef95eea880.js",
+    "precache-manifest.d53ba1a69349c99c8fcd2d2fbf5d498a.js": "/react-sunmedia/precache-manifest.d53ba1a69349c99c8fcd2d2fbf5d498a.js",
     "service-worker.js": "/react-sunmedia/service-worker.js",
     "static/css/main.c9feb24a.chunk.css.map": "/react-sunmedia/static/css/main.c9feb24a.chunk.css.map",
     "static/js/2.e6aaef76.chunk.js.LICENSE.txt": "/react-sunmedia/static/js/2.e6aaef76.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.bdcbaefe.js",
     "static/js/2.e6aaef76.chunk.js",
     "static/css/main.c9feb24a.chunk.css",
-    "static/js/main.3a62aeac.chunk.js"
+    "static/js/main.95583593.chunk.js"
   ]
 }
