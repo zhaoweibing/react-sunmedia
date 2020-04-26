@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de97cda94b110eac04226a8649e864e9",
+    "revision": "1952a24dfdeaf1c28c5b43b4ad6f4835",
     "url": "/react-sunmedia/index.html"
   },
   {
-    "revision": "b787711a995643c2b2ee",
-    "url": "/react-sunmedia/static/css/main.c9feb24a.chunk.css"
+    "revision": "49998a5a4efff6b637e7",
+    "url": "/react-sunmedia/static/css/main.cff4ba96.chunk.css"
   },
   {
     "revision": "05220451bf3f66b30e65",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sunmedia/static/js/2.e6aaef76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b787711a995643c2b2ee",
+    "revision": "49998a5a4efff6b637e7",
     "url": "/react-sunmedia/static/js/main.95583593.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sunmedia/static/js/runtime-main.bdcbaefe.js"
   },
   {
-    "revision": "64523657d9d79a72132b928d096940dc",
-    "url": "/react-sunmedia/static/media/u2_normal.64523657.gif"
+    "revision": "b784ec0e51ee8c3a7bfab5d60c510ef8",
+    "url": "/react-sunmedia/static/media/092222.b784ec0e.gif"
   },
   {
-    "revision": "d66f530912a4cb83a453a90df567f0dc",
-    "url": "/react-sunmedia/static/media/u=3266791705,562979491&fm=214&gp=0.d66f5309.jpg"
+    "revision": "64523657d9d79a72132b928d096940dc",
+    "url": "/react-sunmedia/static/media/u2_normal.64523657.gif"
   }
 ]);
